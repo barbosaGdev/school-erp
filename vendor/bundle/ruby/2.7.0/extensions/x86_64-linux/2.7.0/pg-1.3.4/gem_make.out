@@ -1,5 +1,5 @@
 current directory: /home/gabriel/Documentos/Projetos/school-erp/vendor/bundle/ruby/2.7.0/gems/pg-1.3.4/ext
-/usr/share/rvm/rubies/ruby-2.7.0/bin/ruby -I /usr/share/rvm/rubies/ruby-2.7.0/lib/ruby/2.7.0 -r ./siteconf20220323-64379-1jx8h6z.rb extconf.rb
+/usr/share/rvm/rubies/ruby-2.7.0/bin/ruby -I /usr/share/rvm/rubies/ruby-2.7.0/lib/ruby/2.7.0 -r ./siteconf20220323-481812-9wd2dz.rb extconf.rb
 Calling libpq with GVL unlocked
 checking for pg_config... yes
 Using config values from /usr/bin/pg_config
@@ -54,5 +54,5 @@ linking shared-object pg_ext.so
 
 current directory: /home/gabriel/Documentos/Projetos/school-erp/vendor/bundle/ruby/2.7.0/gems/pg-1.3.4/ext
 make "DESTDIR=" install
-/usr/bin/install -m 0755 pg_ext.so ./.gem.20220323-64379-19o9mc0
+/usr/bin/install -m 0755 pg_ext.so ./.gem.20220323-481812-3d28jr
 installing pg_ext libraries

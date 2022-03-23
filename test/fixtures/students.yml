@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user: one
+  ra: MyString
+  responsible: MyString
+  responsible_contact: MyString
+
+two:
+  user: two
+  ra: MyString
+  responsible: MyString
+  responsible_contact: MyString
